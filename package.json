@@ -1,8 +1,9 @@
 {
-  "name": "@qiniu/typed-less-modules",
+  "name": "@magicdawn/typed-less-modules",
   "version": "0.1.2",
   "description": "TypeScript type definition generator for LESS CSS Modules",
-  "main": "index.js",
+  "main": "dist/lib/main.js",
+  "types": "dist/lib/main.d.ts",
   "license": "Apache",
   "repository": {
     "type": "git",

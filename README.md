@@ -1,3 +1,8 @@
+# myfork
+
+- update `main` & `types` entry, publish d.ts file
+- publish to `@magicdawn/typed-less-modules`
+
 # 🎁 typed-less-modules
 
 [![Travis Build Status](https://img.shields.io/travis/com/qiniu/typed-less-modules/master?style=for-the-badge)](https://travis-ci.com/qiniu/typed-less-modules)
